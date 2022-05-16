@@ -1,3 +1,0 @@
-[submodule "MonarchDB"]
-	path = MonarchDB
-	url = git@github.com:MonarchDevelopment/MonarchDB.git
