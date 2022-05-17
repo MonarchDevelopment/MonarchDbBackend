@@ -1,2 +1,2 @@
 # MonarchDbBackend
-## A Go Backend to [monarch's site](https://competetiveedh.net)
+## A Go Backend to [monarch's site](https://competetiveedh.com)
